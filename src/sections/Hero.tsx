@@ -1,3 +1,3 @@
-export const Hero = () => {
-  return null;
-};
+export default function Hero() {
+  return <div>Hero</div>;
+}

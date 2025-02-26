@@ -49,7 +49,6 @@ const pricingTiers = [
     ],
   },
 ];
-
-export const Pricing = () => {
-  return null;
-};
+export default function Pricing() {
+  return <div>Pricing</div>;
+}

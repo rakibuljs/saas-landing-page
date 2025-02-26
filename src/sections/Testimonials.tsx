@@ -64,7 +64,6 @@ const testimonials = [
     username: "@casey09",
   },
 ];
-
-export const Testimonials = () => {
-  return null;
-};
+export default function Testimonials() {
+  return <div>Testimonials</div>;
+}
